@@ -3,7 +3,7 @@
 Bienvenue sur mon profil GitHub !  
 Je débute dans le développement, et je me forme actuellement pour devenir **développeur full-stack** avec un intérêt marqué pour la **cybersécurité**.
 
-## 🚀 Objectif
+##  Objectif
 - Apprendre les bases du développement web et logiciel
 - Explorer le monde passionnant de la cybersécurité
 - Partager mes progrès et projets au fil de mon apprentissage
@@ -12,7 +12,7 @@ Je débute dans le développement, et je me forme actuellement pour devenir **d�
 - Développement Full-Stack (Front-end & Back-end)
 - Concepts fondamentaux de la cybersécurité
 
-## 🛠️ Compétences à venir
+##  Compétences à venir
 J’ajouterai ici mes compétences au fur et à mesure de ma progression !
 
 ## 💡 Projets
