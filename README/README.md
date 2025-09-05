@@ -18,10 +18,7 @@ J’ajouterai ici mes compétences au fur et à mesure de ma progression !
 ## 💡 Projets
 Je partagerai bientôt mes premiers projets, exercices et scripts ici.
 
-## 🤝 Connecte-toi avec moi !
-*(Ajoute ici tes liens LinkedIn, Twitter, ou autre quand tu voudras)*
 
----
 
 > “Le plus important, c’est de commencer et de ne jamais arrêter d’apprendre.”
 
